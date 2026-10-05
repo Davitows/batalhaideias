@@ -1,0 +1,7 @@
+ANTES DE EXECUTAR:
+1. Instale Flutter + Firebase CLI + FlutterFire CLI.
+2. Rode `flutterfire configure` na raiz.
+3. Depois rode `flutter pub get`.
+4. Para testar no Chrome: `flutter run -d chrome`.
+
+O arquivo lib/firebase_options.dart é propositalmente um placeholder até o FlutterFire CLI gerar as configurações do seu projeto Firebase.
